@@ -5,7 +5,7 @@ This Jupyter notebook showcases a robust face recognition system that leverages 
 ## Features
 
 - **Data Handling**: Efficiently load and preprocess image data to prepare it for modeling.
-- **Model Training**: Utilize advanced machine learning techniques, including convolutional neural networks for feature extraction and linear models for prediction.
+- **Model Training**: Implements linear regression models, particularly using the `l2_rls_train` function for training with L2-regularized sum of squares loss.
 - **Performance Evaluation**: Implement various metrics to assess the accuracy and efficiency of the face recognition models.
 - **Visualization**: Use Matplotlib and other visualization tools to display model performance and error analysis.
 
@@ -23,6 +23,8 @@ Ensure the following tools and libraries are installed:
 pip install numpy matplotlib tensorflow
 # or for PyTorch users
 pip install numpy matplotlib torch
+```
+
 
 
 ## Usage
