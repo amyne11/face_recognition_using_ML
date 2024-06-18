@@ -23,3 +23,15 @@ Ensure the following tools and libraries are installed:
 pip install numpy matplotlib tensorflow
 # or for PyTorch users
 pip install numpy matplotlib torch
+
+
+## Usage
+
+1. **Setup**: Clone the repository or download the Jupyter notebook.
+2. **Execution**: Open the notebook in Jupyter Lab or Jupyter Notebook environment.
+3. **Run**: Execute the cells sequentially from top to bottom to observe the system in action.
+
+## Contributing
+
+Contributions, whether they be feature requests, bug fixes, or improvements, are welcome. Please fork the repository and use a pull request to add enhancements.
+
